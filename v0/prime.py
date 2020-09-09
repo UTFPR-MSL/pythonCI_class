@@ -1,7 +1,4 @@
 def is_prime(number): 	
-	if (not type(number) is int):
-		return False
-
 	if (number <= 1):
 		return False
 	
